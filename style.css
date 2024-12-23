@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 10px 0px 10px;
+    font-size: 20px;
+    border-bottom: 5px black solid; 
+}
+
+main img {
+    border-left: 10px black dotted;
+    margin: 10px;
+}
+
+.pup {
+    border:1px black solid;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+main a {
+    color: blue;
+}
+
+header {
+    margin: 10px;
+    text-align: center;
+}
+
+footer p {
+    border: 10px black solid;
+}
+
+
